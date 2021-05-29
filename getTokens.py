@@ -1,5 +1,4 @@
 # Import Libraries
-import csv
 import requests
 from base64 import b64encode
 from configparser import ConfigParser
